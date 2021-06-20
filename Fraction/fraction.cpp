@@ -19,7 +19,7 @@ void fractional::getdata()
          cout<<"\fraction no. after addition :: ";
          cout<<"\n numerator = "<<temp.numer<<"\n denominator = "<<temp.denom;
  }
- void fraction::operator -(fractional c1)
+ void fractional::operator -(fractional c1)
  {
          fractional temp;
          temp.numer=(numer*c1.denom)-(c1.numer*denom);
