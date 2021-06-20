@@ -4,8 +4,7 @@
 using namespace std;
 
 
-int main(){
-void main()
+int main()
 {
     Time t1,t2,t3;
  
